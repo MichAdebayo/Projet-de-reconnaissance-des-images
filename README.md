@@ -1,27 +1,28 @@
 # Projet-de-reconnaissance-des-images
 
-This is a repository for a computer vision project. The goal of the project is to detect the coins in the image, determine the value of each coin, and find the total amount of the coins. The image used in this project is also included in this repository.
+Il s'agit d'un référentiel pour un projet de vision par ordinateur. Le but du projet est de détecter les pièces dans l'image, de déterminer la valeur de chaque pièce et de trouver le montant total des pièces. L'image utilisée dans ce projet est également incluse dans ce référentiel.
 
-## Methodology
+## Méthodologie
 
-### Python Libraries
+### Bibliothèques Python
 
-The follwoing libraries were used in this project:
+Les bibliothèques suivantes ont été utilisées dans ce projet :
 
-* OpenCV - An open-source library for computer vision, machine learning, and image processing tasks.
-* Numpy - For multi-dimensional array, matrix data structures and, performing mathematical operations.
+* OpenCV - Une bibliothèque open source pour les tâches de vision par ordinateur, d'apprentissage automatique et de traitement d'images.
+  
+* Numpy - Pour les tableaux multidimensionnels, les structures de données matricielles et l'exécution d'opérations mathématiques.
 
-## Project Flowchart
+## Organigramme du projet
 
-The flowchart below summarizes the steps taken to complete the project:
+L'organigramme ci-dessous résume les étapes suivies pour mener à bien le projet :
 
 <div align="center">
 <img width="969" alt="Screenshot 2024-07-26 at 23 42 22" src="https://github.com/user-attachments/assets/eea235c9-b9f2-4607-8664-1fdc8f436d5e">
 </div>
 
-## Final Result
+## Résultat final
 
-The coins in the image were successfully classified/annotated with their values. The sum of the coins is also displayed. 
+Les pièces de monnaie dans l'image ont été classées/annotées avec succès avec leurs valeurs. La somme des pièces est également affichée.
 
 <div align="center">
 <img width="1403" alt="Screenshot 2024-07-26 at 23 36 26" src="https://github.com/user-attachments/assets/f7e5f9ee-f2c2-468b-8bb6-c8141da65a64">
