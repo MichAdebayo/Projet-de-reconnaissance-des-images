@@ -13,4 +13,6 @@ The follwoing libraries were used in this project:
 
 ## Project Flowchart
 
-Un projet de vision par ordinateur mis en œuvre pour reconnaître les pièces ainsi que les valeurs des pièces dans une image.
+The flowchart below summarizes the steps taken to complete the project:
+
+
