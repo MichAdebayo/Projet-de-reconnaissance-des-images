@@ -4,8 +4,8 @@ import numpy as np
 
 
 # Load the images
-img_gray = cv2.imread('capstone_coins.png', cv2.IMREAD_GRAYSCALE)
-original_image = cv2.imread('capstone_coins.png', 1)
+img_gray = cv2.imread('Original_coins_image.png', cv2.IMREAD_GRAYSCALE)
+original_image = cv2.imread('Original_coins_image', 1)
 
 # Apply Gaussian Blur to gray scale image to reduce noise
 blurred_img = cv2.GaussianBlur(img_gray, (5, 5), 0)
@@ -98,7 +98,7 @@ cv2.putText(original_image, 'Estimated Total Value: ' + str(sum(values))
             1.3, 255)
 
 # Save the final annotated image
-cv2.imwrite('classified_coins.jpg', original_image)
+cv2.imwrite('Classified_coins_image.jpg', original_image)
 
 # Display the final image with annotations
 cv2.imshow("Detected Coins", original_image)
