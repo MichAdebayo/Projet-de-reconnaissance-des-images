@@ -15,4 +15,16 @@ The follwoing libraries were used in this project:
 
 The flowchart below summarizes the steps taken to complete the project:
 
+<div align="center">
+![Organization Structure Chart Infographic Graph](https://github.com/user-attachments/assets/e49b40d9-3e56-4083-b0ba-1c60bc7a75e7)
+</div>
+
+## Final Result
+
+The coins in the image were successfully classified/annotated with their values. The sum of the coins is also displayed. 
+
+<div align = "center">
+![classified_coins](https://github.com/user-attachments/assets/426de3bc-892f-4701-b465-93abab0981f8)
+</div>
+
 
