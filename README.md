@@ -16,7 +16,7 @@ The follwoing libraries were used in this project:
 The flowchart below summarizes the steps taken to complete the project:
 
 <div align="center">
-<img width="978" alt="Screenshot 2024-07-26 at 23 36 01" src="https://github.com/user-attachments/assets/ccf843cd-b524-4981-9424-28452e9b5e91">
+<img width="969" alt="Screenshot 2024-07-26 at 23 42 22" src="https://github.com/user-attachments/assets/eea235c9-b9f2-4607-8664-1fdc8f436d5e">
 </div>
 
 ## Final Result
